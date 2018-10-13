@@ -5,6 +5,7 @@
 }
 
 .active {
+  font-family: sans-serif;
   font-weight: bold;
   fill: #000;
   transition: fill 0.3s ease-out;
@@ -12,6 +13,7 @@
 }
 
 .inactive {
+  font-family: sans-serif;
   font-weight: lighter;
   fill: #c9c9c9;
   transition: fill 0.3s ease-out;
@@ -42,6 +44,7 @@
 
 .d3-tip {
   padding: 6px;
+  font-family: sans-serif;
   font-size: 12px;
   line-height: 1;
   line-height: 1.5em;
