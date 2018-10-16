@@ -29,3 +29,24 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
+.header-glass {
+  background-image: url("../images/glassmuseum.jpeg");
+  background-size: cover;
+  height:100vh;
+  display: flex;
+  min-height: auto;
+  text-align: center;
+  vertical-align: middle;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  padding: 150px 15px;
+}
+
+.graph-svg-component {
+  background-color: #fff;
+}

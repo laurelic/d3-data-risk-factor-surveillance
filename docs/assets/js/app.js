@@ -2,9 +2,9 @@ var svgWidth = 800;
 var svgHeight = 500;
 
 var margin = {
-  top: 20,
+  top: 40,
   right: 40,
-  bottom: 80,
+  bottom: 100,
   left: 100
 };
 
@@ -15,7 +15,8 @@ var height = svgHeight - margin.top - margin.bottom;
 var svg = d3.select(".chart")
   .append("svg")
   .attr("width", svgWidth)
-  .attr("height", svgHeight);
+  .attr("height", svgHeight)
+  .attr("class", "graph-svg-component");
 
 var chartGroup = svg.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
