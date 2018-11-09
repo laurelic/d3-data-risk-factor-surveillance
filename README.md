@@ -1,5 +1,8 @@
 # Risk Factor Surveillance Visualization
 
+![rawpixel-593598-unsplash](images/rawpixel-593598-unsplash.jpg)
+
+Photo by rawpixel on Unsplash
 ## Challenge
 Create a data visualization based on information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
