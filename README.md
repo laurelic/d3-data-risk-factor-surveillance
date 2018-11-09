@@ -19,3 +19,5 @@ I utilized D3.js to visualize all data provided so a reader may explore relation
 Additionally, I incorporated tool tips to summarize each data points using `d3-tip.js` plugin developed by [Justin Palmer](https://github.com/Caged).
 
 ![8-tooltip](images/8-tooltip.gif)
+
+To view the finished product, please click [here](https://laurelic.github.io/d3-data-risk-factor-surveillance/).
